@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adriandallegrave
 - 👀 I’m interested in .NET
-- 🌱 I’m currently studying to become a Software Engineer
+- 🌱 I’m a Software Engineer
 - 📫 Reach me at https://www.linkedin.com/in/adrian-dalle-grave-4b5b17187/
 
 <!---
